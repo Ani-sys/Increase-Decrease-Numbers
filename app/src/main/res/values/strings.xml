@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Increase and Decrease Numbers</string>
+    <string name="instruction">Clicking on \'+\' button the number will increase by 1 and clicking on \'-\' button it will be decreased by 1</string>
+    <string name="text">Instruction</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="you_are_a_smart_guy">You are a smart guy!</string>
+</resources>
